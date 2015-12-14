@@ -4,8 +4,8 @@
  * Computer Science 50
  * Problem Set 3
  *
- * Rob Bowden
- * rob@cs.harvard.edu
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Helper functions for Problem Set 3.
  */
