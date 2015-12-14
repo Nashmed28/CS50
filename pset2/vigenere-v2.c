@@ -1,7 +1,8 @@
 /**
  * vigenere_2.c
  *
- * Nate Hardison <nate@cs.harvard.edu>
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Encrypts user-supplied plaintext using a Vigenère cipher.
  */
