@@ -1,8 +1,8 @@
 /**
  * initials.c
  *
- * David J. Malan
- * malan@harvard.edu
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Prints user's initials based on user's name.
  *
