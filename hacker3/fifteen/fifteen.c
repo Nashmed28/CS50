@@ -3,7 +3,10 @@
  *
  * Computer Science 50
  * Problem Set 3
- *
+ * 
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
+ * 
  * Implements Game of Fifteen (generalized to d x d).
  *
  * Usage: fifteen d
