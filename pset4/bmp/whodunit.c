@@ -1,8 +1,8 @@
 /**
  * whodunit.c
  *
- * David J. Malan
- * malan@harvard.edu
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Solves the whodunit problem by applying a filter to a BMP that only lets
  * the red through.
