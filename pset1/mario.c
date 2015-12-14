@@ -1,7 +1,8 @@
 /**
  * mario.c
  *
- * Nate Hardison <nate@cs.harvard.edu>
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Prints out a half pyramid with a user-supplied height.
  */
