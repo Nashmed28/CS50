@@ -1,7 +1,8 @@
 /**
  * mario.c
  *
- * Alex Hugon
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Takes a number for height and creates two "half-pyramids" like those from
  * Super Mario Bros.
