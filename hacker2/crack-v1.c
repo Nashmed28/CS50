@@ -1,3 +1,14 @@
+/**
+ * crack.c
+ *
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
+ *
+ * Attempts to find the password that, when encrypted with the crypt function,
+ * gives the encrypted string passed in at the command line. Uses just a brute-
+ * force approach.
+ */
+
 #define _POSIX_C_SOURCE 200809L
 #include <crypt.h>
 #include <cs50.h>
