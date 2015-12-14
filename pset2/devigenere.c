@@ -1,3 +1,12 @@
+/**
+ * devigenere.c
+ *
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
+ *
+ * Removes encryption done by Vigenère cipher.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <cs50.h>
