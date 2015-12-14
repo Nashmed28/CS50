@@ -1,7 +1,8 @@
 /**
  * greedy.c
  *
- * Nate Hardison <nate@cs.harvard.edu>
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Uses a greedy algorithm to determine how many coins are necessary to make
  * change for a user-provided dollar amount.
