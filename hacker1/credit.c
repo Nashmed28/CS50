@@ -1,8 +1,8 @@
 /**
  * credit.c
  *
- * Batool Ali
- * David J. Malan
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Takes a credit card number and determines
  * whether it is valid and, if it is valid,
