@@ -1,7 +1,8 @@
 /**
  * recover.c
  *
- * Nate Hardison <nate@cs.harvard.edu>
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Recovers JPEG files from a RAW file.
  */
