@@ -2,7 +2,7 @@
     "database": {
         "host": "localhost",
         "name": "pset8",
-        "username": "TODO",
-        "password": "TODO"
+        "username": "SQL username",
+        "password": "SQL password"
     }
 }
