@@ -3,6 +3,9 @@
  *
  * Computer Science 50
  * Problem Set 3
+ * 
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Generates pseudorandom numbers in [0,LIMIT), one per line.
  *
