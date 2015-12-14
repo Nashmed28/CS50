@@ -1,8 +1,8 @@
 /**
  * resize.c
  *
- * David J. Malan
- * malan@harvard.edu
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Resizes a BMP by a factor of n on (0, 100].
  */
