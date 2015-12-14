@@ -4,6 +4,11 @@
 // Computer Science 50
 // Problem Set 6
 //
+// Nabib Ahmed
+// nahmed@college.harvard.edu
+//
+// Gives capability to the web server.
+//
 
 // feature test macro requirements
 #define _GNU_SOURCE
