@@ -3,6 +3,9 @@
  *
  * Computer Science 50
  * Problem Set 4
+ * 
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * BMP-related data types based on Microsoft's own.
  */
