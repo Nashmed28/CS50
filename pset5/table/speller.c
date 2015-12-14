@@ -3,6 +3,9 @@
  *
  * Computer Science 50
  * Problem Set 5
+ * 
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Implements a spell-checker.
  */
