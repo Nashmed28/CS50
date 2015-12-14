@@ -1,7 +1,8 @@
 /**
  * crack.c
  *
- * Rob Bowden <rob@cs.harvard.edu>
+ * Nabib Ahmed
+ * nahmed@college.harvard.edu
  *
  * Attempts to find the password that, when encrypted with the crypt function,
  * gives the encrypted string passed in at the command line. Uses just a brute-
