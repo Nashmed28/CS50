@@ -2,7 +2,7 @@
  * devigenere.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Removes encryption done by Vigenère cipher.
  */
