@@ -2,7 +2,7 @@
  * greedy_2.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Uses a greedy algorithm to determine how many coins are necessary to make
  * change for a user-provided dollar amount. Does some slick div/mod math to
