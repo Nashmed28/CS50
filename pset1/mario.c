@@ -2,7 +2,7 @@
  * mario.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Prints out a half pyramid with a user-supplied height.
  */
