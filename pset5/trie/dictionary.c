@@ -2,7 +2,7 @@
  * dictionary.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Implements a dictionary's functionality using a trie.
  */
