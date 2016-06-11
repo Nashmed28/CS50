@@ -2,7 +2,7 @@
  * resize.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Resizes a BMP by a factor of n on (0, 100].
  */
