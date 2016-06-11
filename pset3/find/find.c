@@ -5,7 +5,7 @@
  * Problem Set 3
  * 
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Prompts user for as many as HAY_MAX values until EOF is reached, 
  * then proceeds to search that "haystack" of values for given needle.
