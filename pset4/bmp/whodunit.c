@@ -2,7 +2,7 @@
  * whodunit.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Solves the whodunit problem by applying a filter to a BMP that only lets
  * the red through.
