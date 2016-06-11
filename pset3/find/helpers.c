@@ -5,7 +5,7 @@
  * Problem Set 3
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Helper functions for Problem Set 3.
  */
