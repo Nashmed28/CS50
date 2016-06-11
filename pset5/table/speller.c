@@ -5,7 +5,7 @@
  * Problem Set 5
  * 
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Implements a spell-checker.
  */
