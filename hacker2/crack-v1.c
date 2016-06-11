@@ -2,7 +2,7 @@
  * crack.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Attempts to find the password that, when encrypted with the crypt function,
  * gives the encrypted string passed in at the command line. Uses just a brute-
