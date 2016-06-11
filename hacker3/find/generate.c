@@ -5,7 +5,7 @@
  * Problem Set 3
  * 
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Generates pseudorandom numbers in [0,LIMIT), one per line.
  *
