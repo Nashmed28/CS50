@@ -5,7 +5,7 @@
  * Problem Set 4
  * 
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * BMP-related data types based on Microsoft's own.
  */
