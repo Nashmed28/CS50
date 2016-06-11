@@ -2,7 +2,7 @@
  * dictionary.h
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Declares a dictionary's functionality.
  */
