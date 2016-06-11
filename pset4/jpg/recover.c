@@ -2,7 +2,7 @@
  * recover.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Recovers JPEG files from a RAW file.
  */
