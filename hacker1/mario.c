@@ -2,7 +2,7 @@
  * mario.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Takes a number for height and creates two "half-pyramids" like those from
  * Super Mario Bros.
