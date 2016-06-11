@@ -5,7 +5,7 @@
  * Problem Set 3
  * 
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  * 
  * Implements Game of Fifteen (generalized to d x d).
  *
