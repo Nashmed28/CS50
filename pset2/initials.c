@@ -2,7 +2,7 @@
  * initials.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Prints user's initials based on user's name.
  *
