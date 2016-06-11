@@ -2,7 +2,7 @@
  * credit.c
  *
  * Nabib Ahmed
- * nahmed@college.harvard.edu
+ * nahmed3536@gmail.com
  *
  * Takes a credit card number and determines
  * whether it is valid and, if it is valid,
